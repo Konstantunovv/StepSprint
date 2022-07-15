@@ -118,7 +118,7 @@ def accept_package(data):  # Обработать пакет данных.
     return storage_data
 
     # Данные для самопроверки.Не удаляйте их.
-package_0 = ('2:00:01', 505)
+package_0 = ('2:00:01', 506)
 package_1 = (None, 3211)
 package_2 = ('9:36:02', 15000)
 package_3 = ('9:36:02', 9000)
